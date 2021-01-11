@@ -1,1 +1,2 @@
-# Pinkoo-project-2
+# PLINKO_2
+
